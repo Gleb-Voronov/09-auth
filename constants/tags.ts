@@ -1,3 +1,3 @@
 export const tags: string[] = [
-'Todo' , 'Work' , 'Personal' , 'Meeting' , 'Shopping'
+'Todo' , 'Work' , 'Personal' , 'Meeting' , 'Shopping', 'All'
 ];
