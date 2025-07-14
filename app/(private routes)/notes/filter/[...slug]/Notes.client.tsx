@@ -56,7 +56,7 @@ export default function NotesClient({
 
           {/* -------BTN CREATE NOTE--------- */}
 
-          <Link href={"/notes/action/create"} className={css.addbutton}>
+          <Link href={"/notes/action/create"} className={css.button}>
             Create note +
           </Link>
         </div>

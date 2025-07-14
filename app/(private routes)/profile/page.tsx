@@ -55,13 +55,7 @@ const ProfilePage = async () => {
             </Link>
           </div>
           <div className={css.avatarWrapper}>
-            <Image
-              src={user?.avatar || "/default-avatar.jpg"}
-              alt="User Avatar"
-              width={120}
-              height={120}
-              className={css.avatar}
-            />
+            
           </div>
           <div className={css.profileInfo}>
             <p>Username: {user?.username || "Guest"}</p>
