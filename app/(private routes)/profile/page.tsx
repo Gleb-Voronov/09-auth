@@ -1,7 +1,7 @@
 import React from "react";
 import css from "./ProfilePage.module.css";
 import Link from "next/link";
-import Image from "next/image";
+
 import { getMeServer } from "@/lib/api/serverApi";
 import { Metadata } from "next";
 
